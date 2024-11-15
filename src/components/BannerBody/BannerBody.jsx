@@ -3,7 +3,7 @@ import robot from '../../assets/robot.png'
 const BannerBody = () => {
   return (
     <div className='' >
-        <div className='grid lg:grid-cols-2  h-[100vh]  sm:grid-rows-2 mt-[30px]'>
+        <div className='grid lg:grid-cols-2  h-[100vh]  sm:grid-rows-2 xs:mt-[2px] lg:mt-[30px]'>
             <div className='   p-[10px]'>
             <p className='text-[40px] poppins-bold'>First AI job Application and support platform</p>
             <p className='poppins-regular mt-[20px]'>Learn your dream Job  with personalised preparation and expert 
